@@ -1,6 +1,6 @@
 package blockchain
 
-import "github.com/peymanzen/blockChain/transactions"
+import "github.com/peymanzen/blockchain/transactions"
 
 
 type Blockchain struct {
