@@ -1,6 +1,6 @@
 package blockchain
 
-import "blockchain-go/transactions"
+import "github.com/peymanzen/blockChain/transactions"
 
 
 type Blockchain struct {

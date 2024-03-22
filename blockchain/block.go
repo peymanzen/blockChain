@@ -5,7 +5,7 @@ import (
 	"encoding/hex"
 	"strconv"
 	"time"
-	"blockchain-go/transactions"
+	"github.com/peymanzen/blockChain/transactions"
 )
  
 type Block struct {
